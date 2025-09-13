@@ -1,6 +1,5 @@
 # 🎵 QMidi for Mac — Professional Karaoke & MIDI Player
 
-![QMidi Logo](https://static.macupdate.com/products/43114/m/qmidi-pro-logo.png)
 
 <div align="center">
   <a href="http://qmidi.github.io/.github">
